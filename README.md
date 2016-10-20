@@ -1,6 +1,8 @@
 <img src="https://cloud.githubusercontent.com/assets/16360374/17991222/82596480-6af1-11e6-9c96-3e2996a8be5a.png" height="60"/>&nbsp;&nbsp;<img src="https://cloud.githubusercontent.com/assets/16360374/18036928/5fbcbcdc-6d2c-11e6-9b40-3aad67379241.png" height="68"/>
 ------------------------------------------------------------------------------------------------------------------------  
 ####&nbsp;&nbsp;&nbsp; A complimentary Atomic UI theme for Atomic Monokai syntax
+
+[![Join the chat at https://gitter.im/JonSn0w/Atomic-Design-UI](https://badges.gitter.im/JonSn0w/Atomic-Design-UI.svg)](https://gitter.im/JonSn0w/Atomic-Design-UI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 <p align="right">
 	<a href="https://atom.io/themes/atomic-design-ui">
 		<img src="https://img.shields.io/apm/v/atomic-design-ui.svg?" height="21" title="Version">&nbsp;&nbsp;
